@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarriorUtils", "WarriorUtils.csproj", "{369445B6-0503-49EB-AE2B-FE702E75AA49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWarriorMethods", "..\TestWarriorMethods\TestWarriorMethods.csproj", "{2657D0B5-261C-400E-8DA2-FC64B77B12B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{369445B6-0503-49EB-AE2B-FE702E75AA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{369445B6-0503-49EB-AE2B-FE702E75AA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{369445B6-0503-49EB-AE2B-FE702E75AA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{369445B6-0503-49EB-AE2B-FE702E75AA49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2657D0B5-261C-400E-8DA2-FC64B77B12B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2657D0B5-261C-400E-8DA2-FC64B77B12B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2657D0B5-261C-400E-8DA2-FC64B77B12B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2657D0B5-261C-400E-8DA2-FC64B77B12B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72C12446-CBB3-4CDB-9338-155A62A9478F}
+	EndGlobalSection
+EndGlobal

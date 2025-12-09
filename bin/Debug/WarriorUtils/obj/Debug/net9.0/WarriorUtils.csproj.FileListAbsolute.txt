@@ -1,0 +1,12 @@
+C:\Users\isard\Desktop\jocs de provas\bin\Debug\WarriorUtils\bin\Debug\net9.0\WarriorUtils.deps.json
+C:\Users\isard\Desktop\jocs de provas\bin\Debug\WarriorUtils\bin\Debug\net9.0\WarriorUtils.dll
+C:\Users\isard\Desktop\jocs de provas\bin\Debug\WarriorUtils\bin\Debug\net9.0\WarriorUtils.pdb
+C:\Users\isard\Desktop\jocs de provas\bin\Debug\WarriorUtils\obj\Debug\net9.0\WarriorUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isard\Desktop\jocs de provas\bin\Debug\WarriorUtils\obj\Debug\net9.0\WarriorUtils.AssemblyInfoInputs.cache
+C:\Users\isard\Desktop\jocs de provas\bin\Debug\WarriorUtils\obj\Debug\net9.0\WarriorUtils.AssemblyInfo.cs
+C:\Users\isard\Desktop\jocs de provas\bin\Debug\WarriorUtils\obj\Debug\net9.0\WarriorUtils.csproj.CoreCompileInputs.cache
+C:\Users\isard\Desktop\jocs de provas\bin\Debug\WarriorUtils\obj\Debug\net9.0\WarriorUtils.sourcelink.json
+C:\Users\isard\Desktop\jocs de provas\bin\Debug\WarriorUtils\obj\Debug\net9.0\WarriorUtils.dll
+C:\Users\isard\Desktop\jocs de provas\bin\Debug\WarriorUtils\obj\Debug\net9.0\refint\WarriorUtils.dll
+C:\Users\isard\Desktop\jocs de provas\bin\Debug\WarriorUtils\obj\Debug\net9.0\WarriorUtils.pdb
+C:\Users\isard\Desktop\jocs de provas\bin\Debug\WarriorUtils\obj\Debug\net9.0\ref\WarriorUtils.dll
